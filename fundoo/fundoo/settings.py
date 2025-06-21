@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'chatapp',
         'USER': 'chatapp',
         'PASSWORD': 'Varunreddy@123',
-        'HOST': 10.0.2.91,
+        'HOST': '10.0.2.91',
         'PORT': os.getenv('DB_PORT', '3306'),
     }
 }
